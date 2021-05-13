@@ -8,6 +8,7 @@ Front-end developer on SUMMIT-BRA
 ### Contact
 Professional contact:
 fernandoperes.ctt@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/fernando-peres-carvalho-25b4661b7/)
 
 ### Fun fact
@@ -22,6 +23,7 @@ Desenvolvedor Front-end na SUMMIT-BRA
 ### Contato
 Contato profissional:
 fernandoperes.ctt@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/fernando-peres-carvalho-25b4661b7/)
 
 ### Fato engraçado
