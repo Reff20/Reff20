@@ -1,6 +1,6 @@
 ## Hello guys! (EN - PT/BR)
 ### EN - A little about me:
-My name is Fernando Peres and i'm sutdyng game dev. At the moment i'm work in SUMMMIT-BRA as a front-end developer. I dont have a lot repositorys on Github because my free time is short, but often i'm using this plataform!
+My name is Fernando Peres and I'm studying game dev. At the moment I work in SUMMIT-BRA as a front-end developer. I don't have a lot of repositories because my free time is short, but often I have been using this platform !
 
 ### My job
 Front-end developer on SUMMIT-BRA
