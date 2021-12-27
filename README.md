@@ -3,7 +3,7 @@
 My name is Fernando Peres and I'm studying game dev. At the moment I work in SUMMIT-BRA as a front-end developer. I don't have a lot of repositories because my free time is short, but often I have been using this platform !
 
 ### My job
-Front-end developer on SUMMIT-BRA
+Fullstack developer on SUMMIT-BRA
 
 ### Contact
 Professional contact:
@@ -18,7 +18,7 @@ My name is Fernando and my nick is Reff. Reff is 'Fer' backwards, but with one m
 Meu nome é Fernando Peres e eu estou estudando desenvolvimento de games. No momento estou trabalhando na SUMMIT-BRA como desenvolvedor front-end. Eu não tenho muitos repositórios no Github porque meu tempo livre é curto, mas eu uso bastante essa plataforma.
 
 ### Meu trabalho
-Desenvolvedor Front-end na SUMMIT-BRA
+Desenvolvedor Fullstack na SUMMIT-BRA
 
 ### Contato
 Contato profissional:
