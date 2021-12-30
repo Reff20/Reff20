@@ -1,9 +1,12 @@
+<img src="https://raw.githubusercontent.com/Reff20/Reff20/main/Design%20sem%20nome.svg" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+
 <h1>Fernando Peres Carvalho<br>Desenvolvedor Full Stack</h1>
 
 <h3 align="left">[PT-BR]</h3>
 <p align="left"> 
   Meu nome é Fernando Peres Carvalho, atualmente estudo Gestão de TI na FATEC Jundiaí. No momento estou trabalhando na SUMMIT-BRA como desenvolvedor front-end. Eu não tenho muitos repositórios no Github porque meu tempo livre é curto, mas eu uso bastante essa plataforma.
 </p>
+<br>
 
 <p align="left">
   💻 Skills:
@@ -22,15 +25,9 @@
 </div>
 </p>
 
-##
-
-<p align="left">
-  Email: fernandoperes.ctt@gmail.com <br>
-  Linkedin: https://www.linkedin.com/in/fernando-peres-carvalho-25b4661b7/
-</p>
+<div></div>
 
 ##
-
 
 <div align="center">
   <a href="https://github.com/Reff20">
