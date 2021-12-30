@@ -1,4 +1,32 @@
-## Hello guys! I'm Fernando Peres Carvalho.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h1>Fernando Peres Carvalho<br>Desenvolvedor Full Stack</h1>
+
+<h3 align="left">[PT-BR]</h3>
+<p align="left"> 
+  Meu nome é Fernando Peres Carvalho, atualmente estudo Gestão de TI na FATEC Jundiaí. No momento estou trabalhando na SUMMIT-BRA como desenvolvedor front-end. Eu não tenho muitos repositórios no Github porque meu tempo livre é curto, mas eu uso bastante essa plataforma.
+</p>
+
+<p align="left">
+  💻 Skills: <br>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Reff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Reff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Reff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Reff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Reff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Reff-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
+</div>
+</p>
+
+<p align="left">
+  💌 Contato: fernandoperes.ctt@gmail.com || [Linkedin](https://www.linkedin.com/in/fernando-peres-carvalho-25b4661b7/)
+</p>
 
 <div align="center">
   <a href="https://github.com/Reff20">
@@ -28,48 +56,3 @@
   <a href="https://www.linkedin.com/in/fernandoperescarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
-
-### EN - A little about me:
-My name is Fernando Peres and I'm studying game dev. At the moment I work in SUMMIT-BRA as a front-end developer. I don't have a lot of repositories because my free time is short, but often I have been using this platform !
-
-### My job
-Fullstack developer on SUMMIT-BRA
-
-### Contact
-Professional contact:
-fernandoperes.ctt@gmail.com
-
-[Linkedin](https://www.linkedin.com/in/fernando-peres-carvalho-25b4661b7/)
-
-### Fun fact
-My name is Fernando and my nick is Reff. Reff is 'Fer' backwards, but with one more 'F'
-
-### PT - Um pouco sobre mim:
-Meu nome é Fernando Peres e eu estou estudando desenvolvimento de games. No momento estou trabalhando na SUMMIT-BRA como desenvolvedor front-end. Eu não tenho muitos repositórios no Github porque meu tempo livre é curto, mas eu uso bastante essa plataforma.
-
-### Meu trabalho
-Desenvolvedor Fullstack na SUMMIT-BRA
-
-### Contato
-Contato profissional:
-fernandoperes.ctt@gmail.com
-
-[Linkedin](https://www.linkedin.com/in/fernando-peres-carvalho-25b4661b7/)
-
-### Fato engraçado
-meu nome é Fernando e meu nick é Reff. Reff é 'Fer' ao contrário, mas com um 'F' a mais
-
-<!--
-**Reff20/Reff20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
