@@ -1,10 +1,9 @@
-<img src="https://raw.githubusercontent.com/Reff20/Reff20/main/Design%20sem%20nome.svg" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/Reff20/Reff20/main/Design%20sem%20nome.svg" style="margin-top: 100px" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
 <h1>Fernando Peres Carvalho<br>Desenvolvedor Full Stack</h1>
 
-<h3 align="left">[PT-BR]</h3>
 <p align="left"> 
-  Meu nome é Fernando Peres Carvalho, atualmente estudo Gestão de TI na FATEC Jundiaí. No momento estou trabalhando na SUMMIT-BRA como desenvolvedor front-end. Eu não tenho muitos repositórios no Github porque meu tempo livre é curto, mas eu uso bastante essa plataforma.
+  My name is Fernando Peres Carvalho, I'm currently studying IT Management on FATEC from Jundiaí and I'm a Fullstack Developer from SUMMIT-BRA.<br> I hope you enjoy my profile! 🚀
 </p>
 <br>
 
@@ -14,18 +13,19 @@
   <img align="center" alt="Reff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Reff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Reff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Reff-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Reff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Reff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Reff-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Reff-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
+  <img align="center" alt="Reff-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Reff-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Reff-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Reff-Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
 </div>
 </p>
 
-<div></div>
+<div><br><br></div>
 
 ##
 
