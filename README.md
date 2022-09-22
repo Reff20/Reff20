@@ -3,7 +3,7 @@
 <h1>Fernando Peres Carvalho<br>Desenvolvedor Full Stack</h1>
 
 <p align="left"> 
-  My name is Fernando Peres Carvalho, I'm currently studying IT Management on FATEC from Jundiaí and I'm a Fullstack Developer from SUMMIT-BRA.<br> I hope you enjoy my profile! 🚀
+  My name is Fernando Peres Carvalho, I'm currently studying IT Management on FATEC from Jundiaí and I'm a Fullstack Developer from MAR Solutions.<br> I hope you enjoy my profile! 🚀
 </p>
 <br>
 
