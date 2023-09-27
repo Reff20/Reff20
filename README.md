@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/Reff20/Reff20/main/Design%20sem%20nome.svg" style="margin-top: 100px" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
-<h1>Fernando Peres Carvalho<br>Desenvolvedor Full Stack</h1>
+<h1>Fernando Peres Carvalho<br>Full Stack Developer</h1>
 
 <p align="left"> 
-  My name is Fernando Peres Carvalho, I'm currently studying IT Management on FATEC from Jundiaí and I'm a Fullstack Developer from MAR Solutions.<br> I hope you enjoy my profile! 🚀
+  My name is Fernando Peres Carvalho, I'm currently have a degree in Systems Analysis & Development on FIAP and I'm a Fullstack Developer from Summit-BRA.<br> I hope you enjoy my profile! 🚀
 </p>
 <br>
 
