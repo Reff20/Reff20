@@ -3,7 +3,7 @@
 <h1>Fernando Peres Carvalho<br>Full Stack Developer</h1>
 
 <p align="left"> 
-  My name is Fernando Peres Carvalho, I'm currently have a degree in Systems Analysis & Development on FIAP and I'm a Fullstack Developer from Summit-BRA.<br> I hope you enjoy my profile! 🚀
+  My name is Fernando Peres Carvalho, I'm currently have a degree in Systems Analysis & Development on FIAP and I'm a Fullstack Developer.<br> I hope you enjoy my profile! 🚀
 </p>
 <br>
 
